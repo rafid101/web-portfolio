@@ -9,10 +9,11 @@ p{color: dimgray;}
         float: left;
         width: 40%;
         margin-top: 3%;}
-#myimage{float: right;
+
+#myimage img{width: 100%; 
+            #myimage{float: right;
         width: 43%;
-        margin-top: 5%;}
-#myimage img{width: 100%; }
+        margin-top: 5%;}}
 .bg{background-image: url(Images/top-banner.png);
     background-repeat: no-repeat;}
 .dream{background-image: url(Images/dream-bg.png);
