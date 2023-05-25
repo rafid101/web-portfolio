@@ -9,9 +9,7 @@ p{color: dimgray;}
         float: left;
         width: 40%;
         margin-top: 3%;}
-#myimage{float: right;
-        width: 43%;
-        margin-top: 5%;}
+
 #myimage img{width: 100%; }
 .bg{background-image: url(Images/top-banner.png);
     background-repeat: no-repeat;}
